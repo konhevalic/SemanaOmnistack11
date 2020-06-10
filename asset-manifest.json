@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/konhevalic/SemanaOmnistack11-frontend/static/css/main.631a1b07.chunk.css",
-    "main.js": "/konhevalic/SemanaOmnistack11-frontend/static/js/main.338f5ef9.chunk.js",
-    "main.js.map": "/konhevalic/SemanaOmnistack11-frontend/static/js/main.338f5ef9.chunk.js.map",
-    "runtime-main.js": "/konhevalic/SemanaOmnistack11-frontend/static/js/runtime-main.400ce29d.js",
-    "runtime-main.js.map": "/konhevalic/SemanaOmnistack11-frontend/static/js/runtime-main.400ce29d.js.map",
-    "static/js/2.00986f8f.chunk.js": "/konhevalic/SemanaOmnistack11-frontend/static/js/2.00986f8f.chunk.js",
-    "static/js/2.00986f8f.chunk.js.map": "/konhevalic/SemanaOmnistack11-frontend/static/js/2.00986f8f.chunk.js.map",
-    "index.html": "/konhevalic/SemanaOmnistack11-frontend/index.html",
-    "precache-manifest.ecfb32740a4155445bc82d1c71198936.js": "/konhevalic/SemanaOmnistack11-frontend/precache-manifest.ecfb32740a4155445bc82d1c71198936.js",
-    "service-worker.js": "/konhevalic/SemanaOmnistack11-frontend/service-worker.js",
-    "static/css/main.631a1b07.chunk.css.map": "/konhevalic/SemanaOmnistack11-frontend/static/css/main.631a1b07.chunk.css.map",
-    "static/js/2.00986f8f.chunk.js.LICENSE.txt": "/konhevalic/SemanaOmnistack11-frontend/static/js/2.00986f8f.chunk.js.LICENSE.txt",
-    "static/media/heroes.png": "/konhevalic/SemanaOmnistack11-frontend/static/media/heroes.1f4b5508.png",
-    "static/media/logo.svg": "/konhevalic/SemanaOmnistack11-frontend/static/media/logo.7eea718b.svg"
+    "main.css": "/konhevalic/SemanaOmnistack11/frontend/static/css/main.631a1b07.chunk.css",
+    "main.js": "/konhevalic/SemanaOmnistack11/frontend/static/js/main.338f5ef9.chunk.js",
+    "main.js.map": "/konhevalic/SemanaOmnistack11/frontend/static/js/main.338f5ef9.chunk.js.map",
+    "runtime-main.js": "/konhevalic/SemanaOmnistack11/frontend/static/js/runtime-main.391940cd.js",
+    "runtime-main.js.map": "/konhevalic/SemanaOmnistack11/frontend/static/js/runtime-main.391940cd.js.map",
+    "static/js/2.00986f8f.chunk.js": "/konhevalic/SemanaOmnistack11/frontend/static/js/2.00986f8f.chunk.js",
+    "static/js/2.00986f8f.chunk.js.map": "/konhevalic/SemanaOmnistack11/frontend/static/js/2.00986f8f.chunk.js.map",
+    "index.html": "/konhevalic/SemanaOmnistack11/frontend/index.html",
+    "precache-manifest.55ad5e4d40f45d0416826f20f60f14ec.js": "/konhevalic/SemanaOmnistack11/frontend/precache-manifest.55ad5e4d40f45d0416826f20f60f14ec.js",
+    "service-worker.js": "/konhevalic/SemanaOmnistack11/frontend/service-worker.js",
+    "static/css/main.631a1b07.chunk.css.map": "/konhevalic/SemanaOmnistack11/frontend/static/css/main.631a1b07.chunk.css.map",
+    "static/js/2.00986f8f.chunk.js.LICENSE.txt": "/konhevalic/SemanaOmnistack11/frontend/static/js/2.00986f8f.chunk.js.LICENSE.txt",
+    "static/media/heroes.png": "/konhevalic/SemanaOmnistack11/frontend/static/media/heroes.1f4b5508.png",
+    "static/media/logo.svg": "/konhevalic/SemanaOmnistack11/frontend/static/media/logo.7eea718b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.400ce29d.js",
+    "static/js/runtime-main.391940cd.js",
     "static/js/2.00986f8f.chunk.js",
     "static/css/main.631a1b07.chunk.css",
     "static/js/main.338f5ef9.chunk.js"
