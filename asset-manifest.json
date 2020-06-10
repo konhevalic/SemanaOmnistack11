@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/konhevalic/SemanaOmnistack11/static/css/main.631a1b07.chunk.css",
+    "main.js": "/konhevalic/SemanaOmnistack11/static/js/main.338f5ef9.chunk.js",
+    "main.js.map": "/konhevalic/SemanaOmnistack11/static/js/main.338f5ef9.chunk.js.map",
+    "runtime-main.js": "/konhevalic/SemanaOmnistack11/static/js/runtime-main.b50e1168.js",
+    "runtime-main.js.map": "/konhevalic/SemanaOmnistack11/static/js/runtime-main.b50e1168.js.map",
+    "static/js/2.00986f8f.chunk.js": "/konhevalic/SemanaOmnistack11/static/js/2.00986f8f.chunk.js",
+    "static/js/2.00986f8f.chunk.js.map": "/konhevalic/SemanaOmnistack11/static/js/2.00986f8f.chunk.js.map",
+    "index.html": "/konhevalic/SemanaOmnistack11/index.html",
+    "precache-manifest.ec3468c402bb05fb985014fcad45b3d1.js": "/konhevalic/SemanaOmnistack11/precache-manifest.ec3468c402bb05fb985014fcad45b3d1.js",
+    "service-worker.js": "/konhevalic/SemanaOmnistack11/service-worker.js",
+    "static/css/main.631a1b07.chunk.css.map": "/konhevalic/SemanaOmnistack11/static/css/main.631a1b07.chunk.css.map",
+    "static/js/2.00986f8f.chunk.js.LICENSE.txt": "/konhevalic/SemanaOmnistack11/static/js/2.00986f8f.chunk.js.LICENSE.txt",
+    "static/media/heroes.png": "/konhevalic/SemanaOmnistack11/static/media/heroes.1f4b5508.png",
+    "static/media/logo.svg": "/konhevalic/SemanaOmnistack11/static/media/logo.7eea718b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b50e1168.js",
+    "static/js/2.00986f8f.chunk.js",
+    "static/css/main.631a1b07.chunk.css",
+    "static/js/main.338f5ef9.chunk.js"
+  ]
+}
